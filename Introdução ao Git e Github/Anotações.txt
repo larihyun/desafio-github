@@ -1,3 +1,10 @@
 Link para download do git: https://git-scm.com/downloads
 
 Git Bash é um terminal extendido para otimizar o uso do Git;
+Para clonar apenas uma branch: git clone –single-branch;
+
+Git start
+
+Para adicionar todos os arquivos: git add . ou git add -A 
+git commit -m "Para incluir algo"
+git push origin main
